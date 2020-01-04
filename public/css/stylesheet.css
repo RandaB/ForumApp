@@ -1,0 +1,44 @@
+.container2{
+    margin: 10px 350px;
+}
+.comment{
+
+}
+.comment p{
+    margin: 5px 0px;
+}
+
+.form{
+    display: grid;
+}
+.form input{
+    padding: 12px;
+}
+.form textarea{
+    padding: 12px 12px 50px 12px;
+    margin-top: 20px;
+}
+.pink-button{
+    padding: 12px;
+    background: #E91E63;
+    border: none;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.error{
+    color: red;
+    margin: 4px 0px 10px 12px;
+}
+.border-red{
+    border-color: red;
+}
+
+.transparent-button{
+    background: transparent;
+    border: none;
+    color: #E91E63 ;
+}
+.comment-in{
+    border-bottom: 1px solid gray;
+}
